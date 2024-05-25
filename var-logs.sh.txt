@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Author: S.Guru Mahesh
+
+# This script about real time error files
+
+mkdir realtime-scripts
+
+cd realtime-scripts
+
+touch pullerrors.sh
